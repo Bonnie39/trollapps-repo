@@ -4,7 +4,7 @@
     "apps": [
       {
         "title": "Flappy Bird",
-        "urlimg": "https://github.com/Bonnie39/trollapps-repo/blob/icons/FlappyBird.png?raw=true",
+        "urlimg": "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/icons/FlappyBird.png",
         "url": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
         "bundleid": "org.brandonplank.flappybird",
         "completed": false
