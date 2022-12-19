@@ -3,74 +3,11 @@
     "name": "Bonnie's Repo",
     "apps": [
       {
-        "title": "u0 Launcher",
-        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/u0Launcher.png?raw=true",
-        "url": "https://github.com/opa334/u0Launcher/releases/download/1.0.1/u0Launcher.ipa",
-        "bundleid": "com.opa334.u0launcher",
+        "title": "Flappy Bird",
+        "urlimg": "https://github.com/Bonnie39/trollapps-repo/blob/icons/FlappyBird.png?raw=true",
+        "url": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+        "bundleid": "org.brandonplank.flappybird",
         "completed": false
-      },
-	  {
-        "title": "Filza (No URL Scheme)",
-        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/filza.png?raw=true",
-        "url": "https://tigisoftware.com/download/Filza_NoURLScheme_3.9.8.ipa",
-        "bundleid": "com.tigisoftware.Filza",
-        "completed": false
-      },
-	  {
-        "title": "Filza",
-        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/filza.png?raw=true",
-        "url": "https://tigisoftware.com/download/Filza_3.9.8.ipa",
-        "bundleid": "com.tigisoftware.Filza",
-        "completed": false
-      },
-	  {
-        "title": "NiceiOS Battery",
-        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/NiceiOS%20Battery.png?raw=true",
-        "url": "https://www.niceios.com/trollapps/NiceBattery.ipa",
-        "bundleid": "com.niceios.Battery.Battery",
-        "completed": false
-      },
-      {
-        "title": "InstaSpring",
-        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/InstaSpring.png?raw=true",
-        "url": "https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa",
-        "bundleid": "org.haxi0.InstaSpring",
-        "completed": false
-      },
-	  {
-        "title": "PostBox",
-        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/postbox.png?raw=true",
-        "url": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
-        "bundleid": "com.simplycode.PostBox",
-        "completed": false
-      },
-	    {
-        "title": "TrollTools",
-        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/TrollTools.png?raw=true",
-        "url": "https://github.com/sourcelocation/TrollTools/releases/download/2.1.2/TrollTools-2.1.2.tipa",
-        "bundleid": "net.sourceloc.TrollTools",
-        "completed": false
-      },
-      {
-        "title": "Taurine (14.0-14.3)",
-        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/taurine.png?raw=true",
-        "url": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
-        "bundleid": "org.coolstar.taurine",
-        "completed": false
-      },
-      {
-        "title": "Unc0ver (11.0-14.8) (Use with u0 launcher)",
-        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/u0Launcher.png?raw=true",
-        "url": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-        "bundleid": "science.xnu.undecimus",
-        "completed": false
-      },
-      {
-        "title": "Enmity",
-        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/Enmity.png?raw=true",
-        "url": "https://github.com/enmity-mod/tweak/releases/latest/download/enmity.ipa",
-        "bundleid": "com.hammerandchisel.discord",
-        "completed": false
-      },
+      }
 	  ]
   }
