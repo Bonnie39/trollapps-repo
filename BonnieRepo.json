@@ -8,6 +8,13 @@
         "url": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
         "bundleid": "org.brandonplank.flappybird",
         "completed": false
+      },
+      {
+        "title": "Delta",
+        "urlimg": "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/icons/Delta.png",
+        "url": "https://github.com/rileytestut/Delta/releases/download/1.3.2/Delta_1_3_2.ipa",
+        "bundleid": "com.rileytestut.Delta",
+        "completed": false
       }
 	  ]
   }
