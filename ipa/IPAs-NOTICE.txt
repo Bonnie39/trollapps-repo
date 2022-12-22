@@ -1,0 +1,5 @@
+NOTICE!
+
+The IPA files included in this repo are for apps that I myself could not find a direct download link for and have to host here on github.
+These IPAs may not always be up to date.
+Credit goes to all creators of the apps.
